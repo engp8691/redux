@@ -1,0 +1,1 @@
+{"version":3,"sources":["/home/yonglin/redux/examples/todos/src/components/App.css"],"names":[],"mappings":"AAAA,MACC,wCAA6C,AAC7C,gBAAkB,AAClB,YAAa,AACb,aAAc,AACd,SAAe,CACf","file":"main.178af227.chunk.css","sourcesContent":[".note{\n\tfont-family: \"Times New Roman\", Times, serif;\n\tfont-size: 0.75em;\n\tmargin: 10px;\n\tpadding: 30px;\n\tcolor: #ff0000;\n}\n"]}
